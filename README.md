@@ -100,13 +100,17 @@ Practical exercises involving network configuration, security tools, and cyberse
 
 I continuously work on developing my cybersecurity knowledge through certifications, practical exercises, and technical projects.
 
-- Cybersecurity-related certifications and training.
-- Networking and security laboratory exercises.
-- Hands-on technical projects.
-- Continuous learning in information security.
+### 🔐 Cybersecurity
 
-*Add your actual certification names and credential links here.*
+- **Google Cybersecurity Professional Certificate**
+- **Foundation Level Threat Intelligence Analyst**
+- **Cybersudo Social Media Intelligence (SOCMINT)**
+- **OSForensics Triage Certification (OSFTC)**
 
+### ☁️ Cloud & Networking
+
+- **CompTIA Cloud+**
+- **CCNA: Introduction to Networks**
 ---
 
 ## 📊 GitHub Statistics
@@ -127,7 +131,7 @@ I continuously work on developing my cybersecurity knowledge through certificati
   <a href="https://github.com/arepdrako123">
     <img src="https://img.shields.io/badge/GitHub-arepdrako123-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-ismail-arif-0a6a5b390/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
